@@ -1,4 +1,4 @@
-meter_ejemplo_ciudades
+Listado de ciudades
 ======================
 
-Un ejemplo sencillo para entender las fortalezas de Meteor
+Un ejemplo sencillo para entender las fortalezas de Meteor.
